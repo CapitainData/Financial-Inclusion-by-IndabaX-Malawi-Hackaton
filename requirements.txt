@@ -1,0 +1,8 @@
+git+https://github.com/eaedk/testing-zindi-package.git
+numpy
+pandas
+catboost
+category_encoders
+sklearn
+scipy
+imblearn
